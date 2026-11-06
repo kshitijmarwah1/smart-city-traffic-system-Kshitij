@@ -1,0 +1,7 @@
+streamlit==1.66.1
+networkx==3.6.1
+matplotlib==3.11.2
+pandas==3.1.0
+numpy==2.4.6
+jupyter==1.1.1
+python-docx==1.2.0

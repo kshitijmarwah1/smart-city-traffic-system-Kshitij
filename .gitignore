@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+
+# Generated benchmark outputs (the report contains the tables)
+results/
+
+# Generated report figures (embedded in the committed DOCX/PDF)
+report/figures/
+
+# Temporary and lock files
+.~lock.*
+*.tmp
+*.log
