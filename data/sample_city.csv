@@ -1,0 +1,17 @@
+source,destination,weight
+Central,Market,4
+Central,Hospital,6
+Central,Mall,5
+Market,University,7
+Market,Stadium,9
+Hospital,Mall,3
+Hospital,Park,8
+Mall,Stadium,6
+Mall,Harbor,10
+University,TechPark,5
+Stadium,TechPark,4
+Stadium,Harbor,5
+Park,Harbor,7
+Park,Airport,12
+Harbor,Airport,6
+TechPark,Airport,11
